@@ -41,4 +41,15 @@ Para adicionar algum arquivo, utilize o git add . , o ponto ser para dizer que �
 git add .
 ```
 
+Para baixar as alterações que estão no github, utilizamos o "pull",<br>
+**IMPORTANTE:** sempre deve baixar a última versão da nuvem antes enviar a atual do computador.
+```bash
+git pull
+```
+
+Para enviar os commits do pc local para o Github, usa-se o "push".
+```bash
+git push
+```
+
 
